@@ -1,0 +1,2 @@
+# VirtualMashine
+azureVM
